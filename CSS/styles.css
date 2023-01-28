@@ -1,0 +1,147 @@
+body {
+    color: #40514E;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+h1 {
+    
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+
+h2 {
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    margin-bottom: 0;
+
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.pro {
+    text-decoration: underline;
+}
+#heading {
+    padding-top: 100px;
+}
+.top-cloud {
+    position: relative;
+    left: 350px;
+    top: 80px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 80px;
+    
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    margin: 0;
+    
+    
+}
+.bottom-container {
+    background-color: #66BFBF;
+    height: 150px;
+}
+.profile {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+
+.btn {
+    
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    font-size: 16px;
+    border-radius: 8px;
+    background-color: #66BFBF;
+}
+.btn:hover {
+    background-color: #30e3cb;
+}
+
+.footer-link {
+    color: #11999E;
+    position: relative;
+    top: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.skill-row {
+    width: 50%;
+    margin: 70px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.code-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+
+}
+.g-i-t {
+    margin: 0;
+}
+.lawyer-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.stack-dev {
+    color: #40514E;
+}
+.attorney {
+    color: #11999E;
+    
+    
+}
+hr {
+    width: 50px;
+    border-style: none none dotted none;
+    border-width: 6px;
+    color: #EAF6F6;
+    margin-bottom: 80px;
+    
+}
+.contact-me {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+.footer-link-twitter {
+    color: #11999E;
+    position: relative;
+    top: 40px;
+    
+   
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: #EAF6F6;
+}
+.copy-right {
+    color: #EAF6F6;
+    position: relative;
+    top: 60px;
+    font-size: 0.75rem;
+    
+}
+.gig-story {
+    margin-bottom: 40px;
+}
